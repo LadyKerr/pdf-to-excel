@@ -1,6 +1,6 @@
 # PDF to Excel Converter in Python :snake:
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](URL)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/LadyKerr/pdf-to-excel)
 
 This Python script uses the `tabula-py` and `pandas` libraries to convert a PDF file into an Excel file. Each table in the PDF file is written to a separate sheet in the Excel file.
 
